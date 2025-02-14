@@ -4,7 +4,6 @@ package com.example.game_service.controllers;
 import com.example.game_service.entities.UserActivity;
 import com.example.game_service.entities.UserDoc;
 import com.example.game_service.services.AnalyticsService;
-import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
